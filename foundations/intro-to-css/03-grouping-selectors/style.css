@@ -1,0 +1,13 @@
+.subsection {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', serif;
+    }
+
+.subsection.one{
+    background-color: black;
+    color: white;
+}
+
+.subsection.two{
+    background-color: yellow;
+}
